@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NomadUluk , i'm a student
-- 👀 I’m interested in software engeenering
-- 🌱 I’m currently learning C++ , python, JS and some HTML with CSS
+- 👀 I’m studying software engeenering
+- 🌱 I’m currently learning C++ , python, JS and HTML with CSS, Java
 - 💞️ I’m open to collaborate.
 - 📫 How to reach me:
   - E-mail: uulukmyrza27@gmail.com
